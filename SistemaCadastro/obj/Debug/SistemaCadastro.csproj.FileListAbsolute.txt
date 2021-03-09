@@ -1,0 +1,44 @@
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csprojResolveAssemblyReference.cache
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.Cache
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\obj\Debug\SistemaCadastro.csprojResolveAssemblyReference.cache
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.Cache
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilas\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilasAlunos\SistemaCadastro\obj\Debug\SistemaCadastro.csprojResolveAssemblyReference.cache
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilasAlunos\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilasAlunos\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilasAlunos\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.Cache
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilasAlunos\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\Dados\Documents\Visual Studio 2017\Projects\SistemaFilasAlunos\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\mef\IF\ED I - SI\Semana 5 - Fila Encadeada\TrabalhoFilaC#\FilaAula08042020\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+C:\Users\testhd\Pictures\C#\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\testhd\Pictures\C#\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\testhd\Pictures\C#\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+C:\Users\testhd\Pictures\C#\SistemaCadastro\bin\Debug\MetroFramework.dll
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+C:\Users\testhd\Pictures\C#\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
